@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vedant43hh/practise-logic/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vedant43hh/practise-logic/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
@@ -43,16 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vedant43hh/practise-logic/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vedant43hh/practise-logic/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vedant43hh/practise-logic/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vedant43hh/practise-logic/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vedant43hh/practise-logic/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vedant43hh/practise-logic/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vedant43hh/practise-logic/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vedant43hh/practise-logic/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->

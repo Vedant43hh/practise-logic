@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vedant43hh/practise-logic/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/Vedant43hh/practise-logic/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->

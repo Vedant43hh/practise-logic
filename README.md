@@ -53,11 +53,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vedant43hh/practise-logic/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vedant43hh/practise-logic/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vedant43hh/practise-logic/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vedant43hh/practise-logic/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vedant43hh/practise-logic/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vedant43hh/practise-logic/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -71,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Vedant43hh/practise-logic/tree/master/0078-subsets) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vedant43hh/practise-logic/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vedant43hh/practise-logic/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->

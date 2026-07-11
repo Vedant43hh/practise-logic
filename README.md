@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0511-game-play-analysis-i](https://github.com/Vedant43hh/practise-logic/tree/master/0511-game-play-analysis-i) |
+| [0610-triangle-judgement](https://github.com/Vedant43hh/practise-logic/tree/master/0610-triangle-judgement) |
 | [0627-swap-sex-of-employees](https://github.com/Vedant43hh/practise-logic/tree/master/0627-swap-sex-of-employees) |
 ## Dynamic Programming
 |  |

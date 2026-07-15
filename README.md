@@ -107,9 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vedant43hh/practise-logic/tree/master/0013-roman-to-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vedant43hh/practise-logic/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vedant43hh/practise-logic/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Vedant43hh/practise-logic/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vedant43hh/practise-logic/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

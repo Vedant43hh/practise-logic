@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vedant43hh/practise-logic/tree/master/0014-longest-common-prefix) |
 | [0078-subsets](https://github.com/Vedant43hh/practise-logic/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/Vedant43hh/practise-logic/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/Vedant43hh/practise-logic/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/Vedant43hh/practise-logic/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vedant43hh/practise-logic/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vedant43hh/practise-logic/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Vedant43hh/practise-logic/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/Vedant43hh/practise-logic/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vedant43hh/practise-logic/tree/master/0013-roman-to-integer) |
+| [0496-next-greater-element-i](https://github.com/Vedant43hh/practise-logic/tree/master/0496-next-greater-element-i) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vedant43hh/practise-logic/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1331-rank-transform-of-an-array](https://github.com/Vedant43hh/practise-logic/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vedant43hh/practise-logic/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vedant43hh/practise-logic/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Vedant43hh/practise-logic/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

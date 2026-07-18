@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vedant43hh/practise-logic/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vedant43hh/practise-logic/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedant43hh/practise-logic/tree/master/0151-reverse-words-in-a-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Vedant43hh/practise-logic/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vedant43hh/practise-logic/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vedant43hh/practise-logic/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Linked List
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vedant43hh/practise-logic/tree/master/0013-roman-to-integer) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Vedant43hh/practise-logic/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vedant43hh/practise-logic/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vedant43hh/practise-logic/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Vedant43hh/practise-logic/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |

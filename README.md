@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Vedant43hh/practise-logic/tree/master/0078-subsets) |
 | [0238-product-of-array-except-self](https://github.com/Vedant43hh/practise-logic/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Vedant43hh/practise-logic/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Vedant43hh/practise-logic/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Vedant43hh/practise-logic/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vedant43hh/practise-logic/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vedant43hh/practise-logic/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Vedant43hh/practise-logic/tree/master/0258-add-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vedant43hh/practise-logic/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1952-three-divisors](https://github.com/Vedant43hh/practise-logic/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vedant43hh/practise-logic/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Vedant43hh/practise-logic/tree/master/1331-rank-transform-of-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vedant43hh/practise-logic/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vedant43hh/practise-logic/tree/master/3867-sum-of-gcd-of-formed-pairs) |

@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vedant43hh/practise-logic/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Vedant43hh/practise-logic/tree/master/0258-add-digits) |
+| [0400-nth-digit](https://github.com/Vedant43hh/practise-logic/tree/master/0400-nth-digit) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vedant43hh/practise-logic/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vedant43hh/practise-logic/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Binary Search
+|  |
+| ------- |
+| [0400-nth-digit](https://github.com/Vedant43hh/practise-logic/tree/master/0400-nth-digit) |
 <!---LeetCode Topics End-->

@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vedant43hh/practise-logic/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vedant43hh/practise-logic/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vedant43hh/practise-logic/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vedant43hh/practise-logic/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vedant43hh/practise-logic/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Vedant43hh/practise-logic/tree/master/2413-smallest-even-multiple) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Vedant43hh/practise-logic/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vedant43hh/practise-logic/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vedant43hh/practise-logic/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vedant43hh/practise-logic/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vedant43hh/practise-logic/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vedant43hh/practise-logic/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Vedant43hh/practise-logic/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Heap (Priority Queue)
 |  |

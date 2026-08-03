@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Vedant43hh/practise-logic/tree/master/0196-delete-duplicate-emails) |
 | [0511-game-play-analysis-i](https://github.com/Vedant43hh/practise-logic/tree/master/0511-game-play-analysis-i) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Vedant43hh/practise-logic/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0610-triangle-judgement](https://github.com/Vedant43hh/practise-logic/tree/master/0610-triangle-judgement) |

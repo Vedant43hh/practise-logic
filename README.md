@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Vedant43hh/practise-logic/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vedant43hh/practise-logic/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Vedant43hh/practise-logic/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vedant43hh/practise-logic/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vedant43hh/practise-logic/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Vedant43hh/practise-logic/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vedant43hh/practise-logic/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Vedant43hh/practise-logic/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/Vedant43hh/practise-logic/tree/master/1952-three-divisors) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Vedant43hh/practise-logic/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |

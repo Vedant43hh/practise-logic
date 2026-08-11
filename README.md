@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vedant43hh/practise-logic/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/Vedant43hh/practise-logic/tree/master/0143-reorder-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Vedant43hh/practise-logic/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Vedant43hh/practise-logic/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/Vedant43hh/practise-logic/tree/master/0496-next-greater-element-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vedant43hh/practise-logic/tree/master/0769-max-chunks-to-make-sorted) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Vedant43hh/practise-logic/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Vedant43hh/practise-logic/tree/master/0143-reorder-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Vedant43hh/practise-logic/tree/master/2487-remove-nodes-from-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Vedant43hh/practise-logic/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Hash Table
 |  |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Vedant43hh/practise-logic/tree/master/0496-next-greater-element-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vedant43hh/practise-logic/tree/master/0769-max-chunks-to-make-sorted) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Vedant43hh/practise-logic/tree/master/2487-remove-nodes-from-linked-list) |
 ## Matrix
 |  |
 | ------- |

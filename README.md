@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vedant43hh/practise-logic/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedant43hh/practise-logic/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Vedant43hh/practise-logic/tree/master/0179-largest-number) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vedant43hh/practise-logic/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0680-valid-palindrome-ii](https://github.com/Vedant43hh/practise-logic/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Vedant43hh/practise-logic/tree/master/0771-jewels-and-stones) |
 | [0848-shifting-letters](https://github.com/Vedant43hh/practise-logic/tree/master/0848-shifting-letters) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vedant43hh/practise-logic/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vedant43hh/practise-logic/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vedant43hh/practise-logic/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vedant43hh/practise-logic/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vedant43hh/practise-logic/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Vedant43hh/practise-logic/tree/master/0771-jewels-and-stones) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vedant43hh/practise-logic/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vedant43hh/practise-logic/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vedant43hh/practise-logic/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
@@ -285,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Vedant43hh/practise-logic/tree/master/0877-stone-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Vedant43hh/practise-logic/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vedant43hh/practise-logic/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 <!---LeetCode Topics End-->

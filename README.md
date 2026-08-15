@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vedant43hh/practise-logic/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vedant43hh/practise-logic/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vedant43hh/practise-logic/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Vedant43hh/practise-logic/tree/master/3643-flip-square-submatrix-vertically) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vedant43hh/practise-logic/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Vedant43hh/practise-logic/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/Vedant43hh/practise-logic/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Vedant43hh/practise-logic/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedant43hh/practise-logic/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Vedant43hh/practise-logic/tree/master/0680-valid-palindrome-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Vedant43hh/practise-logic/tree/master/3643-flip-square-submatrix-vertically) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Vedant43hh/practise-logic/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Vedant43hh/practise-logic/tree/master/1260-shift-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vedant43hh/practise-logic/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vedant43hh/practise-logic/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3643-flip-square-submatrix-vertically](https://github.com/Vedant43hh/practise-logic/tree/master/3643-flip-square-submatrix-vertically) |
 ## Greedy
 |  |
 | ------- |

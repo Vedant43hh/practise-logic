@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Vedant43hh/practise-logic/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/Vedant43hh/practise-logic/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Vedant43hh/practise-logic/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Vedant43hh/practise-logic/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vedant43hh/practise-logic/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/Vedant43hh/practise-logic/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Vedant43hh/practise-logic/tree/master/0496-next-greater-element-i) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vedant43hh/practise-logic/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vedant43hh/practise-logic/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0268-missing-number](https://github.com/Vedant43hh/practise-logic/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vedant43hh/practise-logic/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Vedant43hh/practise-logic/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Vedant43hh/practise-logic/tree/master/0496-next-greater-element-i) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Vedant43hh/practise-logic/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Vedant43hh/practise-logic/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/Vedant43hh/practise-logic/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vedant43hh/practise-logic/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vedant43hh/practise-logic/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Vedant43hh/practise-logic/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Vedant43hh/practise-logic/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/Vedant43hh/practise-logic/tree/master/0400-nth-digit) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Vedant43hh/practise-logic/tree/master/0877-stone-game) |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Vedant43hh/practise-logic/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/Vedant43hh/practise-logic/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/0628-maximum-product-of-three-numbers) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vedant43hh/practise-logic/tree/master/0769-max-chunks-to-make-sorted) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vedant43hh/practise-logic/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -316,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Vedant43hh/practise-logic/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/Vedant43hh/practise-logic/tree/master/0400-nth-digit) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vedant43hh/practise-logic/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Game Theory

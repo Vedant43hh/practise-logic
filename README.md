@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vedant43hh/practise-logic/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1844-replace-all-digits-with-characters](https://github.com/Vedant43hh/practise-logic/tree/master/1844-replace-all-digits-with-characters) |
+| [1927-sum-game](https://github.com/Vedant43hh/practise-logic/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vedant43hh/practise-logic/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vedant43hh/practise-logic/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vedant43hh/practise-logic/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Vedant43hh/practise-logic/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vedant43hh/practise-logic/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1927-sum-game](https://github.com/Vedant43hh/practise-logic/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/Vedant43hh/practise-logic/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vedant43hh/practise-logic/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Vedant43hh/practise-logic/tree/master/2413-smallest-even-multiple) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vedant43hh/practise-logic/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vedant43hh/practise-logic/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1927-sum-game](https://github.com/Vedant43hh/practise-logic/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vedant43hh/practise-logic/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vedant43hh/practise-logic/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vedant43hh/practise-logic/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Vedant43hh/practise-logic/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/Vedant43hh/practise-logic/tree/master/1927-sum-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Vedant43hh/practise-logic/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Divide and Conquer
 |  |

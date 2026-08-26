@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Vedant43hh/practise-logic/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vedant43hh/practise-logic/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Vedant43hh/practise-logic/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2833-furthest-point-from-origin](https://github.com/Vedant43hh/practise-logic/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vedant43hh/practise-logic/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vedant43hh/practise-logic/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vedant43hh/practise-logic/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vedant43hh/practise-logic/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vedant43hh/practise-logic/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Vedant43hh/practise-logic/tree/master/2206-divide-array-into-equal-pairs) |
+| [2833-furthest-point-from-origin](https://github.com/Vedant43hh/practise-logic/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vedant43hh/practise-logic/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vedant43hh/practise-logic/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search

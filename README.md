@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Vedant43hh/practise-logic/tree/master/2206-divide-array-into-equal-pairs) |
 | [2295-replace-elements-in-an-array](https://github.com/Vedant43hh/practise-logic/tree/master/2295-replace-elements-in-an-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Vedant43hh/practise-logic/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vedant43hh/practise-logic/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vedant43hh/practise-logic/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vedant43hh/practise-logic/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vedant43hh/practise-logic/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Vedant43hh/practise-logic/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vedant43hh/practise-logic/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Vedant43hh/practise-logic/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vedant43hh/practise-logic/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Vedant43hh/practise-logic/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vedant43hh/practise-logic/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vedant43hh/practise-logic/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |

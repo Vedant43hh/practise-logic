@@ -1,16 +1,18 @@
-class Solution {
-    static int[] suf = new int[100] ;
+class Solution{
     public int firstStableIndex(int[] nums, int k) {
         int n = nums.length ; 
-        suf[n-1] = nums[n-1] ;
+        int[] suff = new int[n] ;
+        int min = Integer.MAX_VALUE ;
 
-        for(int i = n-2 ; i >= 0 ; i--){
-            suf[i] = Math.min(suf[i+1] , nums[i]) ; 
+        for(int i = n-1 ; i >= 0 ; i--){
+            min = Math.min(min , nums[i]) ; 
+            suff[i] = min ;
         }
         int max = 0 ; 
         for(int i = 0 ; i < n ; i++){
             max = Math.max(max , nums[i]) ;
-            if(max<=k+suf[i]){
+            int score = max-suff[i] ;
+            if(score<=k){
                 return i ;
             }
         }

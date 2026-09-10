@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vedant43hh/practise-logic/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vedant43hh/practise-logic/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vedant43hh/practise-logic/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Vedant43hh/practise-logic/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vedant43hh/practise-logic/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vedant43hh/practise-logic/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vedant43hh/practise-logic/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -426,4 +427,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vedant43hh/practise-logic/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vedant43hh/practise-logic/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Vedant43hh/practise-logic/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+## String Matching
+|  |
+| ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Vedant43hh/practise-logic/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+## Hash Function
+|  |
+| ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Vedant43hh/practise-logic/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 <!---LeetCode Topics End-->

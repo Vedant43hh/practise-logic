@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vedant43hh/practise-logic/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vedant43hh/practise-logic/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vedant43hh/practise-logic/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3019-number-of-changing-keys](https://github.com/Vedant43hh/practise-logic/tree/master/3019-number-of-changing-keys) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vedant43hh/practise-logic/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vedant43hh/practise-logic/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List

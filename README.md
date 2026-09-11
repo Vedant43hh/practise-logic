@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vedant43hh/practise-logic/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vedant43hh/practise-logic/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vedant43hh/practise-logic/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vedant43hh/practise-logic/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vedant43hh/practise-logic/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vedant43hh/practise-logic/tree/master/3643-flip-square-submatrix-vertically) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Vedant43hh/practise-logic/tree/master/0143-reorder-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Vedant43hh/practise-logic/tree/master/2487-remove-nodes-from-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Vedant43hh/practise-logic/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vedant43hh/practise-logic/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vedant43hh/practise-logic/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vedant43hh/practise-logic/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vedant43hh/practise-logic/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Vedant43hh/practise-logic/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Vedant43hh/practise-logic/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Vedant43hh/practise-logic/tree/master/1952-three-divisors) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Vedant43hh/practise-logic/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Vedant43hh/practise-logic/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/3483-unique-3-digit-even-numbers) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vedant43hh/practise-logic/tree/master/3546-equal-sum-grid-partition-i) |
 ## Number Theory
 |  |

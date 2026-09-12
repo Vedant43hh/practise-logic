@@ -462,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vedant43hh/practise-logic/tree/master/0239-sliding-window-maximum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Vedant43hh/practise-logic/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

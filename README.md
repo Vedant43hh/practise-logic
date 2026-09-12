@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vedant43hh/practise-logic/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Vedant43hh/practise-logic/tree/master/0014-longest-common-prefix) |
 | [0078-subsets](https://github.com/Vedant43hh/practise-logic/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/Vedant43hh/practise-logic/tree/master/0179-largest-number) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vedant43hh/practise-logic/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Vedant43hh/practise-logic/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/Vedant43hh/practise-logic/tree/master/0400-nth-digit) |
 | [0658-find-k-closest-elements](https://github.com/Vedant43hh/practise-logic/tree/master/0658-find-k-closest-elements) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vedant43hh/practise-logic/tree/master/0004-median-of-two-sorted-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vedant43hh/practise-logic/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Vedant43hh/practise-logic/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Knapsack Problem

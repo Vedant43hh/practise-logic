@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vedant43hh/practise-logic/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Vedant43hh/practise-logic/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/Vedant43hh/practise-logic/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Vedant43hh/practise-logic/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/Vedant43hh/practise-logic/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Vedant43hh/practise-logic/tree/master/0238-product-of-array-except-self) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vedant43hh/practise-logic/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vedant43hh/practise-logic/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Vedant43hh/practise-logic/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Vedant43hh/practise-logic/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedant43hh/practise-logic/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/Vedant43hh/practise-logic/tree/master/0647-palindromic-substrings) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vedant43hh/practise-logic/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Vedant43hh/practise-logic/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Vedant43hh/practise-logic/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/0628-maximum-product-of-three-numbers) |
@@ -481,4 +484,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Vedant43hh/practise-logic/tree/master/0836-rectangle-overlap) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vedant43hh/practise-logic/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vedant43hh/practise-logic/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

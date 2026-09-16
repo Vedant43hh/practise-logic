@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Vedant43hh/practise-logic/tree/master/0658-find-k-closest-elements) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vedant43hh/practise-logic/tree/master/0769-max-chunks-to-make-sorted) |
 | [0848-shifting-letters](https://github.com/Vedant43hh/practise-logic/tree/master/0848-shifting-letters) |
+| [0875-koko-eating-bananas](https://github.com/Vedant43hh/practise-logic/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Vedant43hh/practise-logic/tree/master/0877-stone-game) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vedant43hh/practise-logic/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vedant43hh/practise-logic/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vedant43hh/practise-logic/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/Vedant43hh/practise-logic/tree/master/0400-nth-digit) |
 | [0658-find-k-closest-elements](https://github.com/Vedant43hh/practise-logic/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/Vedant43hh/practise-logic/tree/master/0875-koko-eating-bananas) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vedant43hh/practise-logic/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Game Theory
 |  |

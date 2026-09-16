@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vedant43hh/practise-logic/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/Vedant43hh/practise-logic/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Vedant43hh/practise-logic/tree/master/0078-subsets) |
+| [0169-majority-element](https://github.com/Vedant43hh/practise-logic/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vedant43hh/practise-logic/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Vedant43hh/practise-logic/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Vedant43hh/practise-logic/tree/master/0239-sliding-window-maximum) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vedant43hh/practise-logic/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vedant43hh/practise-logic/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/Vedant43hh/practise-logic/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vedant43hh/practise-logic/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vedant43hh/practise-logic/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Vedant43hh/practise-logic/tree/master/0424-longest-repeating-character-replacement) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vedant43hh/practise-logic/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Vedant43hh/practise-logic/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vedant43hh/practise-logic/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Vedant43hh/practise-logic/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/0628-maximum-product-of-three-numbers) |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Vedant43hh/practise-logic/tree/master/0169-majority-element) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vedant43hh/practise-logic/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vedant43hh/practise-logic/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vedant43hh/practise-logic/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vedant43hh/practise-logic/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Vedant43hh/practise-logic/tree/master/0169-majority-element) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vedant43hh/practise-logic/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Vedant43hh/practise-logic/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Knapsack Problem
@@ -492,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Vedant43hh/practise-logic/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Vedant43hh/practise-logic/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

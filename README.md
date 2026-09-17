@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vedant43hh/practise-logic/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Vedant43hh/practise-logic/tree/master/0014-longest-common-prefix) |
+| [0053-maximum-subarray](https://github.com/Vedant43hh/practise-logic/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Vedant43hh/practise-logic/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Vedant43hh/practise-logic/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/Vedant43hh/practise-logic/tree/master/0169-majority-element) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vedant43hh/practise-logic/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Vedant43hh/practise-logic/tree/master/0053-maximum-subarray) |
 | [0494-target-sum](https://github.com/Vedant43hh/practise-logic/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/Vedant43hh/practise-logic/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Vedant43hh/practise-logic/tree/master/0877-stone-game) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vedant43hh/practise-logic/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Vedant43hh/practise-logic/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Vedant43hh/practise-logic/tree/master/0169-majority-element) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vedant43hh/practise-logic/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Vedant43hh/practise-logic/tree/master/3653-xor-after-range-multiplication-queries-i) |

@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Vedant43hh/practise-logic/tree/master/0143-reorder-list) |
+| [0390-elimination-game](https://github.com/Vedant43hh/practise-logic/tree/master/0390-elimination-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Vedant43hh/practise-logic/tree/master/2487-remove-nodes-from-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Vedant43hh/practise-logic/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/3483-unique-3-digit-even-numbers) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Vedant43hh/practise-logic/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Vedant43hh/practise-logic/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Vedant43hh/practise-logic/tree/master/0268-missing-number) |
+| [0390-elimination-game](https://github.com/Vedant43hh/practise-logic/tree/master/0390-elimination-game) |
 | [0400-nth-digit](https://github.com/Vedant43hh/practise-logic/tree/master/0400-nth-digit) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Vedant43hh/practise-logic/tree/master/0836-rectangle-overlap) |

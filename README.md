@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Vedant43hh/practise-logic/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Vedant43hh/practise-logic/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Vedant43hh/practise-logic/tree/master/0078-subsets) |
+| [0139-word-break](https://github.com/Vedant43hh/practise-logic/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Vedant43hh/practise-logic/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vedant43hh/practise-logic/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vedant43hh/practise-logic/tree/master/0215-kth-largest-element-in-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vedant43hh/practise-logic/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vedant43hh/practise-logic/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0067-add-binary](https://github.com/Vedant43hh/practise-logic/tree/master/0067-add-binary) |
+| [0139-word-break](https://github.com/Vedant43hh/practise-logic/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedant43hh/practise-logic/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Vedant43hh/practise-logic/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Vedant43hh/practise-logic/tree/master/0316-remove-duplicate-letters) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Vedant43hh/practise-logic/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vedant43hh/practise-logic/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Vedant43hh/practise-logic/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/Vedant43hh/practise-logic/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Vedant43hh/practise-logic/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vedant43hh/practise-logic/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Vedant43hh/practise-logic/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vedant43hh/practise-logic/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Vedant43hh/practise-logic/tree/master/0053-maximum-subarray) |
+| [0139-word-break](https://github.com/Vedant43hh/practise-logic/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Vedant43hh/practise-logic/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/Vedant43hh/practise-logic/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/Vedant43hh/practise-logic/tree/master/0877-stone-game) |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vedant43hh/practise-logic/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Vedant43hh/practise-logic/tree/master/0139-word-break) |
 ## Math
 |  |
 | ------- |
@@ -524,4 +529,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vedant43hh/practise-logic/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Vedant43hh/practise-logic/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Vedant43hh/practise-logic/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

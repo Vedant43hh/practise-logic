@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vedant43hh/practise-logic/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vedant43hh/practise-logic/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vedant43hh/practise-logic/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vedant43hh/practise-logic/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vedant43hh/practise-logic/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vedant43hh/practise-logic/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Vedant43hh/practise-logic/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vedant43hh/practise-logic/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vedant43hh/practise-logic/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Vedant43hh/practise-logic/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vedant43hh/practise-logic/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vedant43hh/practise-logic/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Vedant43hh/practise-logic/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Vedant43hh/practise-logic/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Vedant43hh/practise-logic/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vedant43hh/practise-logic/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vedant43hh/practise-logic/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vedant43hh/practise-logic/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vedant43hh/practise-logic/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vedant43hh/practise-logic/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Vedant43hh/practise-logic/tree/master/0238-product-of-array-except-self) |
 | [0848-shifting-letters](https://github.com/Vedant43hh/practise-logic/tree/master/0848-shifting-letters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vedant43hh/practise-logic/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vedant43hh/practise-logic/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vedant43hh/practise-logic/tree/master/3546-equal-sum-grid-partition-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Vedant43hh/practise-logic/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -448,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Vedant43hh/practise-logic/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Vedant43hh/practise-logic/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vedant43hh/practise-logic/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vedant43hh/practise-logic/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vedant43hh/practise-logic/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Game Theory
 |  |

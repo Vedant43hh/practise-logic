@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vedant43hh/practise-logic/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vedant43hh/practise-logic/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vedant43hh/practise-logic/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/Vedant43hh/practise-logic/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Vedant43hh/practise-logic/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vedant43hh/practise-logic/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vedant43hh/practise-logic/tree/master/1979-find-greatest-common-divisor-of-array) |

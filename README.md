@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/Vedant43hh/practise-logic/tree/master/0859-buddy-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vedant43hh/practise-logic/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vedant43hh/practise-logic/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Vedant43hh/practise-logic/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Vedant43hh/practise-logic/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vedant43hh/practise-logic/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Vedant43hh/practise-logic/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Vedant43hh/practise-logic/tree/master/0496-next-greater-element-i) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vedant43hh/practise-logic/tree/master/0769-max-chunks-to-make-sorted) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Vedant43hh/practise-logic/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
@@ -558,4 +560,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Vedant43hh/practise-logic/tree/master/0139-word-break) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

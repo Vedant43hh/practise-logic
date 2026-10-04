@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Vedant43hh/practise-logic/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vedant43hh/practise-logic/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Vedant43hh/practise-logic/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/Vedant43hh/practise-logic/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Vedant43hh/practise-logic/tree/master/0151-reverse-words-in-a-string) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/0032-longest-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Vedant43hh/practise-logic/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/Vedant43hh/practise-logic/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Vedant43hh/practise-logic/tree/master/0402-remove-k-digits) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vedant43hh/practise-logic/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Vedant43hh/practise-logic/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/Vedant43hh/practise-logic/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/Vedant43hh/practise-logic/tree/master/0494-target-sum) |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Vedant43hh/practise-logic/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

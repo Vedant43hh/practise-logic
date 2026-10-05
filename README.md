@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Vedant43hh/practise-logic/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Vedant43hh/practise-logic/tree/master/0771-jewels-and-stones) |
 | [0848-shifting-letters](https://github.com/Vedant43hh/practise-logic/tree/master/0848-shifting-letters) |
+| [0856-score-of-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/0856-score-of-parentheses) |
 | [0859-buddy-strings](https://github.com/Vedant43hh/practise-logic/tree/master/0859-buddy-strings) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vedant43hh/practise-logic/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vedant43hh/practise-logic/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Vedant43hh/practise-logic/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Vedant43hh/practise-logic/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Vedant43hh/practise-logic/tree/master/0769-max-chunks-to-make-sorted) |
+| [0856-score-of-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Vedant43hh/practise-logic/tree/master/2487-remove-nodes-from-linked-list) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Vedant43hh/practise-logic/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

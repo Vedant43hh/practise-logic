@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Vedant43hh/practise-logic/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Vedant43hh/practise-logic/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Vedant43hh/practise-logic/tree/master/0877-stone-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Vedant43hh/practise-logic/tree/master/1137-n-th-tribonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vedant43hh/practise-logic/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/Vedant43hh/practise-logic/tree/master/3524-find-x-value-of-array-i) |
 ## Trie
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Vedant43hh/practise-logic/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Vedant43hh/practise-logic/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Vedant43hh/practise-logic/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1137-n-th-tribonacci-number](https://github.com/Vedant43hh/practise-logic/tree/master/1137-n-th-tribonacci-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Vedant43hh/practise-logic/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1927-sum-game](https://github.com/Vedant43hh/practise-logic/tree/master/1927-sum-game) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/Vedant43hh/practise-logic/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/Vedant43hh/practise-logic/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Vedant43hh/practise-logic/tree/master/1137-n-th-tribonacci-number) |
 ## Brute-Force Search
 |  |
 | ------- |

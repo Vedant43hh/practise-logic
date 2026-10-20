@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Vedant43hh/practise-logic/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Vedant43hh/practise-logic/tree/master/0877-stone-game) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vedant43hh/practise-logic/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Vedant43hh/practise-logic/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vedant43hh/practise-logic/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1260-shift-2d-grid](https://github.com/Vedant43hh/practise-logic/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Vedant43hh/practise-logic/tree/master/1331-rank-transform-of-an-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Vedant43hh/practise-logic/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Vedant43hh/practise-logic/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/Vedant43hh/practise-logic/tree/master/1009-complement-of-base-10-integer) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Vedant43hh/practise-logic/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vedant43hh/practise-logic/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Vedant43hh/practise-logic/tree/master/1684-count-the-number-of-consistent-strings) |

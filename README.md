@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Vedant43hh/practise-logic/tree/master/2206-divide-array-into-equal-pairs) |
 | [2295-replace-elements-in-an-array](https://github.com/Vedant43hh/practise-logic/tree/master/2295-replace-elements-in-an-array) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Vedant43hh/practise-logic/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Vedant43hh/practise-logic/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vedant43hh/practise-logic/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Vedant43hh/practise-logic/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vedant43hh/practise-logic/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Vedant43hh/practise-logic/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Vedant43hh/practise-logic/tree/master/2413-smallest-even-multiple) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Vedant43hh/practise-logic/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Vedant43hh/practise-logic/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2544-alternating-digit-sum](https://github.com/Vedant43hh/practise-logic/tree/master/2544-alternating-digit-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vedant43hh/practise-logic/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vedant43hh/practise-logic/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |

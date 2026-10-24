@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Vedant43hh/practise-logic/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vedant43hh/practise-logic/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Vedant43hh/practise-logic/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [2409-count-days-spent-together](https://github.com/Vedant43hh/practise-logic/tree/master/2409-count-days-spent-together) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vedant43hh/practise-logic/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Vedant43hh/practise-logic/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vedant43hh/practise-logic/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Vedant43hh/practise-logic/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vedant43hh/practise-logic/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Vedant43hh/practise-logic/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/Vedant43hh/practise-logic/tree/master/2409-count-days-spent-together) |
 | [2413-smallest-even-multiple](https://github.com/Vedant43hh/practise-logic/tree/master/2413-smallest-even-multiple) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Vedant43hh/practise-logic/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Vedant43hh/practise-logic/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |

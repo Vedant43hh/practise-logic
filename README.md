@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Vedant43hh/practise-logic/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Vedant43hh/practise-logic/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vedant43hh/practise-logic/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1254-number-of-closed-islands](https://github.com/Vedant43hh/practise-logic/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Vedant43hh/practise-logic/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Vedant43hh/practise-logic/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vedant43hh/practise-logic/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -260,12 +261,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vedant43hh/practise-logic/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vedant43hh/practise-logic/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vedant43hh/practise-logic/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/Vedant43hh/practise-logic/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vedant43hh/practise-logic/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vedant43hh/practise-logic/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Vedant43hh/practise-logic/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1254-number-of-closed-islands](https://github.com/Vedant43hh/practise-logic/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vedant43hh/practise-logic/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Vedant43hh/practise-logic/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Vedant43hh/practise-logic/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph Theory
 |  |
@@ -459,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Vedant43hh/practise-logic/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Vedant43hh/practise-logic/tree/master/0073-set-matrix-zeroes) |
+| [1254-number-of-closed-islands](https://github.com/Vedant43hh/practise-logic/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Vedant43hh/practise-logic/tree/master/1260-shift-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Vedant43hh/practise-logic/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vedant43hh/practise-logic/tree/master/2946-matrix-similarity-after-cyclic-shifts) |

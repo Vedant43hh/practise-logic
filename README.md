@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Vedant43hh/practise-logic/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Vedant43hh/practise-logic/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Vedant43hh/practise-logic/tree/master/0179-largest-number) |
+| [0198-house-robber](https://github.com/Vedant43hh/practise-logic/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vedant43hh/practise-logic/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Vedant43hh/practise-logic/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Vedant43hh/practise-logic/tree/master/0239-sliding-window-maximum) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Vedant43hh/practise-logic/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Vedant43hh/practise-logic/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/Vedant43hh/practise-logic/tree/master/0139-word-break) |
+| [0198-house-robber](https://github.com/Vedant43hh/practise-logic/tree/master/0198-house-robber) |
 | [0494-target-sum](https://github.com/Vedant43hh/practise-logic/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Vedant43hh/practise-logic/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Vedant43hh/practise-logic/tree/master/0647-palindromic-substrings) |

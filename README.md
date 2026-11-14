@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Vedant43hh/practise-logic/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vedant43hh/practise-logic/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vedant43hh/practise-logic/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Vedant43hh/practise-logic/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vedant43hh/practise-logic/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Vedant43hh/practise-logic/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/Vedant43hh/practise-logic/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vedant43hh/practise-logic/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vedant43hh/practise-logic/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Vedant43hh/practise-logic/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vedant43hh/practise-logic/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2574-left-and-right-sum-differences](https://github.com/Vedant43hh/practise-logic/tree/master/2574-left-and-right-sum-differences) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vedant43hh/practise-logic/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Vedant43hh/practise-logic/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vedant43hh/practise-logic/tree/master/3546-equal-sum-grid-partition-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Vedant43hh/practise-logic/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3903-smallest-stable-index-i](https://github.com/Vedant43hh/practise-logic/tree/master/3903-smallest-stable-index-i) |

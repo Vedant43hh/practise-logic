@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1844-replace-all-digits-with-characters](https://github.com/Vedant43hh/practise-logic/tree/master/1844-replace-all-digits-with-characters) |
 | [1927-sum-game](https://github.com/Vedant43hh/practise-logic/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Vedant43hh/practise-logic/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Vedant43hh/practise-logic/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Vedant43hh/practise-logic/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [2409-count-days-spent-together](https://github.com/Vedant43hh/practise-logic/tree/master/2409-count-days-spent-together) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Vedant43hh/practise-logic/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Vedant43hh/practise-logic/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/Vedant43hh/practise-logic/tree/master/1260-shift-2d-grid) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vedant43hh/practise-logic/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Vedant43hh/practise-logic/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/Vedant43hh/practise-logic/tree/master/2295-replace-elements-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vedant43hh/practise-logic/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Vedant43hh/practise-logic/tree/master/3069-distribute-elements-into-two-arrays-i) |
